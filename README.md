@@ -33,5 +33,5 @@ You are now ready to start using PetraOS!
 
 
 
-If you find a bug or error, please submit a report under the "Issues" section of this repository.<br/>
+If you find a bug or error, please submit a report (with proper tags) under the "Issues" section of this repository.<br/>
 Thank you for using PetraOS!
