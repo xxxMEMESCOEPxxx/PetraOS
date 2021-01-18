@@ -20,7 +20,7 @@ Once you have these things, you can use balena Etcher to flash the OS onto your 
 Download and run the balena etcher executable file. You must then select the OS File you downloaded.<br/>
 Now select the correct SD Card to flash. (THIS WILL ERASE ALL DATA ON THE CARD! BE CAREFUL TO SELECT THE CORRECT DRIVE!)<br/>
 Next, click the "Flash" button. This will decompress the OS Image and write it to your SD Card.<br/>
-Finally, plug the SD Card into the pi and power it up!
+Finally, plug the SD Card into the pi and power it up! (NOTE: On first boot, the system will reboot after resizing the partitions. This is nothing to worry about, as it should work normally upon restarting.)
 
 
 
